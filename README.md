@@ -1,5 +1,19 @@
-# 💫 About Me:
-<br>I am an Integrated MCA student and aspiring Data Analyst with a strong interest in transforming raw data into actionable business insights. I enjoy working with data, identifying patterns, and solving business problems through analytical thinking and visualization.<br><br>- Currently Working On: DemandCast – Retail Sales & Demand Analysis<br>- Technical Skills: Python, SQL (PostgreSQL), Microsoft Excel, Power BI<br>- Areas of Interest: Data Analytics, Business Intelligence, Exploratory Data Analysis, and Data Visualization<br>- Currently Learning: Advanced SQL, Python for Data Analysis, and Business Intelligence<br>- Open to: Data Analytics projects, collaborative opportunities, and entry-level roles<br>- Career Goal: To contribute to data-driven decision-making by translating complex data into meaningful insights.
+ <h1 align="center">Hey 👋, I'm Abha Sharma</h1>
+
+<h3 align="center">Aspiring Data Analyst | Integrated MCA Student</h3>
+
+---
+
+## 💫 About Me:
+
+I am an Integrated MCA student and aspiring Data Analyst with a strong interest in transforming raw data into actionable business insights. I enjoy working with data, identifying patterns, and solving business problems through analytical thinking and visualization.
+
+- 🔭 Currently Working On: DemandCast – Retail Sales & Demand Analysis
+- 💻 Technical Skills: Python, SQL (PostgreSQL), Microsoft Excel, Power BI
+- 📊 Areas of Interest: Data Analytics, Business Intelligence, EDA, and Data Visualization
+- 🌱 Currently Learning: Advanced SQL, Python for Data Analysis, and Business Intelligence
+- 🤝 Open to: Data Analytics projects and collaborative opportunities
+- 🎯 Career Goal: To support data-driven decision-making through meaningful insights.
 
 
 ## 🌐 Socials:
