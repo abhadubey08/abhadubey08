@@ -6,7 +6,7 @@
 
 ## 💫 About Me:
 
-I am an Integrated MCA student and aspiring Data Analyst with a strong interest in transforming raw data into actionable business insights. I enjoy working with data, identifying patterns, and solving business problems through analytical thinking and visualization.
+I am an Integrated MCA student and a Data Analyst with a strong interest in transforming raw data into actionable business insights. I enjoy working with data, identifying patterns, and solving business problems through analytical thinking and visualization.
 
 - 🔭 Currently Working On: DemandCast – Retail Sales & Demand Analysis
 - 💻 Technical Skills: Python, SQL (PostgreSQL), Microsoft Excel, Power BI
